@@ -45,17 +45,8 @@ Acknowledgments
 ---------------
 
 *   We thank the authors of
-    *   the TREES toolbox (https://www.treestoolbox.org/),
-    *   the corPop toolbox (https://de.mathworks.com/matlabcentral/fileexchange/20591-sampling-from-multivariate-correlated-binary-and-poisson-random-variables?focused=5103226&tab=function)
-    *   the circ\_stat toolbox (http://bethgelab.org/software/circstat/)
-    *   the cbrewer function (https://de.mathworks.com/matlabcentral/fileexchange/34087-cbrewer-colorbrewer-schemes-for-matlab)
-    *   the gramm toolbox (https://de.mathworks.com/matlabcentral/fileexchange/54465-gramm-complete-data-visualization-toolbox-ggplot2-r-like)
-    *   the alphamask function (https://de.mathworks.com/matlabcentral/fileexchange/34936-alphamask-semi-transparent-image-overlay)
-    *   the rdir function (https://de.mathworks.com/matlabcentral/fileexchange/47125-rdir-m)
-    *   the rgb function (https://de.mathworks.com/matlabcentral/fileexchange/24497-rgb-triple-of-color-name-version-2?focused=5124709&tab=function)
-    *   the scatstat1 function (https://de.mathworks.com/matlabcentral/fileexchange/57945-scatstat1-local-statistics-of-scattered-1d-data)
-    *   the trandn function (https://de.mathworks.com/matlabcentral/fileexchange/53180-truncated-normal-generator)
-
+    *   [the TREES toolbox](https://www.treestoolbox.org/), [the corPop toolbox](https://de.mathworks.com/matlabcentral/fileexchange/20591-sampling-from-multivariate-correlated-binary-and-poisson-random-variables?focused=5103226&tab=function), [the circ\_stat toolbox](http://bethgelab.org/software/circstat/), [the cbrewer function](https://de.mathworks.com/matlabcentral/fileexchange/34087-cbrewer-colorbrewer-schemes-for-matlab), [the gramm toolbox](https://de.mathworks.com/matlabcentral/fileexchange/54465-gramm-complete-data-visualization-toolbox-ggplot2-r-like), [the alphamask function](https://de.mathworks.com/matlabcentral/fileexchange/34936-alphamask-semi-transparent-image-overlay), [the rdir function](https://de.mathworks.com/matlabcentral/fileexchange/47125-rdir-m), [the rgb function](https://de.mathworks.com/matlabcentral/fileexchange/24497-rgb-triple-of-color-name-version-2?focused=5124709&tab=function), [the scatstat1 function](https://de.mathworks.com/matlabcentral/fileexchange/57945-scatstat1-local-statistics-of-scattered-1d-data), [the trandn function](https://de.mathworks.com/matlabcentral/fileexchange/53180-truncated-normal-generator),
+   
 [Access input movies and data points extracted from publications](https://www.dropbox.com/sh/rbtum08gmmbufl3/AACQ-mHfJYoEN6g8wi1xdukKa?dl=0)
 
 [Access to precomputed simulation output](https://www.dropbox.com/sh/0jjjrfit5qs5zen/AACLGdXuP8J6d8Ki5u16CI0ba?dl=0)
