@@ -28,6 +28,10 @@ Example:
 
 To generate panel G from Figure 4, open the script PanelG.m in the subfolder Fig4 in matlab and press F5 (or click "Run"). If the message "run batch_process_ferret.m first" is displayed, open batch_process_ferret.m and press F5 (or click "Run"). For this panel, expect a runtime of ~20 minutes per simulation on a normal desktop machine, i.e. 100 hours for 300 simulations in total.
 
+[Access input movies and data points extracted from publications](https://www.dropbox.com/sh/rbtum08gmmbufl3/AACQ-mHfJYoEN6g8wi1xdukKa?dl=0)
+
+[Access to precomputed simulation output](https://www.dropbox.com/sh/0jjjrfit5qs5zen/AACLGdXuP8J6d8Ki5u16CI0ba?dl=0)
+
 License
 -------
 
@@ -44,9 +48,5 @@ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
 Acknowledgments
 ---------------
 
-*   We thank the authors of
-    *   [the TREES toolbox](https://www.treestoolbox.org/), [the corPop toolbox](https://de.mathworks.com/matlabcentral/fileexchange/20591-sampling-from-multivariate-correlated-binary-and-poisson-random-variables?focused=5103226&tab=function), [the circ\_stat toolbox](http://bethgelab.org/software/circstat/), [the cbrewer function](https://de.mathworks.com/matlabcentral/fileexchange/34087-cbrewer-colorbrewer-schemes-for-matlab), [the gramm toolbox](https://de.mathworks.com/matlabcentral/fileexchange/54465-gramm-complete-data-visualization-toolbox-ggplot2-r-like), [the alphamask function](https://de.mathworks.com/matlabcentral/fileexchange/34936-alphamask-semi-transparent-image-overlay), [the rdir function](https://de.mathworks.com/matlabcentral/fileexchange/47125-rdir-m), [the rgb function](https://de.mathworks.com/matlabcentral/fileexchange/24497-rgb-triple-of-color-name-version-2?focused=5124709&tab=function), [the scatstat1 function](https://de.mathworks.com/matlabcentral/fileexchange/57945-scatstat1-local-statistics-of-scattered-1d-data), [the trandn function](https://de.mathworks.com/matlabcentral/fileexchange/53180-truncated-normal-generator),
+We thank the authors of the [TREES toolbox](https://www.treestoolbox.org/), [corPop toolbox](https://de.mathworks.com/matlabcentral/fileexchange/20591-sampling-from-multivariate-correlated-binary-and-poisson-random-variables?focused=5103226&tab=function), [circ\_stat toolbox](http://bethgelab.org/software/circstat/), [cbrewer function](https://de.mathworks.com/matlabcentral/fileexchange/34087-cbrewer-colorbrewer-schemes-for-matlab), [gramm toolbox](https://de.mathworks.com/matlabcentral/fileexchange/54465-gramm-complete-data-visualization-toolbox-ggplot2-r-like), [alphamask function](https://de.mathworks.com/matlabcentral/fileexchange/34936-alphamask-semi-transparent-image-overlay), [rdir function](https://de.mathworks.com/matlabcentral/fileexchange/47125-rdir-m), [rgb function](https://de.mathworks.com/matlabcentral/fileexchange/24497-rgb-triple-of-color-name-version-2?focused=5124709&tab=function), [scatstat1 function](https://de.mathworks.com/matlabcentral/fileexchange/57945-scatstat1-local-statistics-of-scattered-1d-data) and the [trandn function](https://de.mathworks.com/matlabcentral/fileexchange/53180-truncated-normal-generator).
    
-[Access input movies and data points extracted from publications](https://www.dropbox.com/sh/rbtum08gmmbufl3/AACQ-mHfJYoEN6g8wi1xdukKa?dl=0)
-
-[Access to precomputed simulation output](https://www.dropbox.com/sh/0jjjrfit5qs5zen/AACLGdXuP8J6d8Ki5u16CI0ba?dl=0)
